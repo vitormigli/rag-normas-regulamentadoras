@@ -34,7 +34,7 @@ flowchart LR
     Q --> D[Vector search]
     F --> R[RRF fusion]
     D --> R
-    R --> G[Claude: cited answer or "não encontrado"]
+    R --> G["Claude: cited answer or 'não encontrado'"]
 ```
 
 ## Results
