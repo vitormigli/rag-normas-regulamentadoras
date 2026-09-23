@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "vector_only_recall@5": 0.5833333333333334,
+    "hybrid_recall@5": 0.5833333333333334,
+    "n_answerable_questions": 12,
+    "refusal_accuracy": 0.8125,
+    "citation_accuracy": 0.75
+  },
+  "rows": [
+    {
+      "id": "q01",
+      "question": "O que é considerado trabalho em altura segundo a NR-35?",
+      "answerable": true,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": false,
+      "cited_correct_norma": false
+    },
+    {
+      "id": "q02",
+      "question": "Qual a carga horária mínima do treinamento inicial para trabalho em altura?",
+      "answerable": true,
+      "answer": "A carga horária mínima do treinamento inicial para trabalho em altura deve ser de 8 (oito) horas (NR-35, item 35.4.2.1).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q03",
+      "question": "O que é a Análise de Risco (AR) no contexto de trabalho em altura?",
+      "answerable": true,
+      "answer": "A Análise de Risco (AR) no contexto de trabalho em altura deve considerar, além dos riscos inerentes, fatores como o local de execução dos serviços e seu entorno, o isolamento e sinalização da área, os sistemas e pontos de ancoragem, condições meteorológicas adversas, seleção e inspeção de sistemas de proteção, risco de queda de materiais, trabalhos simultâneos com riscos específicos, requisitos de segurança das demais normas regulamentadoras, riscos adicionais, condições impeditivas, situações de emergência, necessidade de sistema de comunicação e forma de supervisão (NR-35, item 35.5.5.1).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q04",
+      "question": "Quem é considerado fabricante de EPI para efeitos da NR-06?",
+      "answerable": true,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": false,
+      "cited_correct_norma": false
+    },
+    {
+      "id": "q05",
+      "question": "Quais são as responsabilidades do trabalhador em relação ao uso de EPI?",
+      "answerable": true,
+      "answer": "As responsabilidades do trabalhador em relação ao uso de EPI são: a) usar o fornecido pela organização, observado o disposto no item 6.5.2; b) utilizar apenas para a finalidade a que se destina; c) responsabilizar-se pela limpeza, guarda e conservação; d) comunicar à organização quando extraviado, danificado ou qualquer alteração que o torne impróprio para uso; e e) cumprir as determinações da organização sobre o uso adequado (NR-06, item 6.6.1). Além disso, cabe ao trabalhador usar o equipamento de proteção individual fornecido pelo empregador (NR-01, item 1.4.2).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q06",
+      "question": "O que é a CIPA segundo a NR-05?",
+      "answerable": true,
+      "answer": "A CIPA tem por atribuição: a) acompanhar o processo de identificação de perigos e avaliação de riscos bem como a adoção de medidas de prevenção implementadas pela organização; b) registrar a percepção dos riscos dos trabalhadores; c) verificar os ambientes e as condições de trabalho; d) elaborar e acompanhar plano de trabalho preventivo; e) participar no desenvolvimento e implementação de programas de segurança e saúde; f) acompanhar a análise dos acidentes e doenças relacionadas ao trabalho; g) requisitar informações sobre segurança e saúde dos trabalhadores; h) propor análise das condições de trabalho com risco grave e iminente; i) promover anualmente a Semana Interna de Prevenção de Acidentes do Trabalho - SIPAT; j) incluir temas de prevenção e combate ao assédio sexual e outras formas de violência no trabalho. (NR-05, item 5.3.1) A CIPA será constituída por estabelecimento e composta de representantes da organização e dos empregados. (NR-05, item 5.4.1)",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q07",
+      "question": "Como deve ser implementado o gerenciamento de riscos ocupacionais nos estabelecimentos, segundo a NR-01?",
+      "answerable": true,
+      "answer": "O gerenciamento de riscos ocupacionais deve ser implementado nos estabelecimentos de acordo com a NR-01, item 1.5.3.1, que determina que a organização deve implementar o gerenciamento de riscos ocupacionais de suas atividades. Além disso, o item 1.5.3.1.2 estabelece que esse gerenciamento pode ser atendido por sistemas de gestão, desde que cumpram as exigências previstas nesta NR e em dispositivos legais de segurança e saúde no trabalho.",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q08",
+      "question": "O que a NR-17 diz sobre organização do trabalho?",
+      "answerable": true,
+      "answer": "A NR-17 diz que a organização do trabalho deve levar em consideração: a) as normas de produção; b) o modo operatório, quando aplicável; c) a exigência de tempo; d) o ritmo de trabalho; e) o conteúdo das tarefas e os instrumentos e meios técnicos disponíveis; e f) os aspectos cognitivos que possam comprometer a segurança e a saúde do trabalhador (NR-17, item 17.4.1). Além disso, a organização deve considerar as condições de trabalho, incluindo os fatores de risco psicossociais relacionados ao trabalho (NR-01, item 1.5.3.2.1).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q09",
+      "question": "É permitido trabalho em altura sob condições meteorológicas adversas?",
+      "answerable": true,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": false,
+      "cited_correct_norma": false
+    },
+    {
+      "id": "q10",
+      "question": "O gerenciamento de riscos ocupacionais deve constituir qual programa, segundo a NR-01?",
+      "answerable": true,
+      "answer": "O gerenciamento de riscos ocupacionais deve constituir o Programa de Gerenciamento de Riscos, que deve ser implementado por estabelecimento, podendo ser por unidade operacional, setor ou atividade (NR-01, item 1.5.3.1.1.1).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q11",
+      "question": "Quem considera-se importador de EPI segundo a NR-06?",
+      "answerable": true,
+      "answer": "Considera-se importador de EPI a pessoa jurídica estabelecida em território nacional que, sob seu nome ou marca, importa e assume a responsabilidade pela comercialização, desempenho, garantia e assistência técnica pós-venda do EPI (NR-06, item 6.2.1.2).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q12",
+      "question": "O procedimento operacional para trabalho em altura rotineiro deve conter o quê?",
+      "answerable": true,
+      "answer": "O procedimento operacional para trabalho em altura rotineiro deve conter: a) o detalhamento da tarefa; b) as medidas de prevenção características à rotina; c) as condições impeditivas; d) os sistemas de proteção coletiva e individual necessários; e e) as competências e responsabilidades (NR-35, item 35.5.6.1).",
+      "refusal_correct": true,
+      "cited_correct_norma": true
+    },
+    {
+      "id": "q13",
+      "question": "Qual o valor do adicional de insalubridade para grau médio?",
+      "answerable": false,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": true,
+      "cited_correct_norma": null
+    },
+    {
+      "id": "q14",
+      "question": "Quais são as regras de exame demissional previstas no PCMSO?",
+      "answerable": false,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": true,
+      "cited_correct_norma": null
+    },
+    {
+      "id": "q15",
+      "question": "Qual o prazo de validade da CNH para motoristas profissionais?",
+      "answerable": false,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": true,
+      "cited_correct_norma": null
+    },
+    {
+      "id": "q16",
+      "question": "Quais EPIs são obrigatórios especificamente para trabalho em altura segundo a NR-35?",
+      "answerable": false,
+      "answer": "Não encontrado nas normas consultadas.",
+      "refusal_correct": true,
+      "cited_correct_norma": null
+    }
+  ]
+}
